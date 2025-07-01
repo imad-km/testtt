@@ -1,0 +1,7 @@
+Flask
+flask_sqlalchemy
+flask_jwt_extended
+flasgger
+validators
+firebase-admin
+flask_cors
